@@ -42,7 +42,7 @@ while True :
     if again == "no":
         print("\nFinal Score :")
         print(f'Your Score : {user_score}')
-        print(f'computer Score : {computer_score}')
+        print(f'Computer Score : {computer_score}')
         print('''Thanks For playing! 
         See you soon...''')
         break
